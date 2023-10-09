@@ -1,0 +1,7 @@
+Financial Analysis
+------------------------
+Total months: 86
+Toal: $38382578
+Average Chnage: $-2315.118
+Greatest Increase in Profits: Feb-2012 $1926159
+Greatest Decrease in profits: Sep-2013 $-2196167
